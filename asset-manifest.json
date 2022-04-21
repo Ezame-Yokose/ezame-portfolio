@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ezame-portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/ezame-portfolio/static/js/main.f9b06534.js",
+    "static/js/787.2b5ec256.chunk.js": "/ezame-portfolio/static/js/787.2b5ec256.chunk.js",
+    "static/media/ezame.jpg": "/ezame-portfolio/static/media/ezame.d181c6476ac53beeebea.jpg",
+    "index.html": "/ezame-portfolio/index.html",
+    "main.073c9b0a.css.map": "/ezame-portfolio/static/css/main.073c9b0a.css.map",
+    "main.f9b06534.js.map": "/ezame-portfolio/static/js/main.f9b06534.js.map",
+    "787.2b5ec256.chunk.js.map": "/ezame-portfolio/static/js/787.2b5ec256.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f9b06534.js"
+  ]
+}
