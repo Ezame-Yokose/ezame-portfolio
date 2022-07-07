@@ -1,7 +1,7 @@
-import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Icon from './Icon'
+import PageNavbar from './PageNavbar'
+import 'bootstrap/dist/css/bootstrap.min.css';
 import { useTypewriter, Cursor } from 'react-simple-typewriter'
 
 function App() {
@@ -64,6 +64,7 @@ function App() {
 
   return (
     <div className='App'>
+      <PageNavbar />
       <Icon />
       <span><b>&gt;_</b> {text}</span>
       <Cursor />
